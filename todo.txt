@@ -1,8 +1,23 @@
-1. [x] Create basic front-end, static to start.
+1. [x] Create basic front-end; static to start.
     - Use HTML, CSS, and JavaScript
-2. [ ] Set up back-end service
+
+2. [x] Set up back-end service
     - Node.JavaScript
     - MongoDB to handle the data
-3. [ ] Display search results
+
+3. [x] Create form to send data to MongoDB
+    - New temporary webpage - make secure later
+
+4. [x] Get front-end to connect to back-end
+    - GET and POST requests
+
+5. [ ] Send data to MongoDB using form
+    - Format data to send
+
+6. [ ] Retrieve data back from MongoDB
+
+7. [ ] Create search engine guidelines/keywords
+
+8. [ ] Display search results
     - Use dynamically loading results on same page
     - Maybe with AJAX?
