@@ -1,0 +1,7 @@
+1. [x] Create basic front-end, static to start.
+    - Use HTML, CSS, and JavaScript
+2. [ ] Set up back-end service
+    - ???????
+3. [ ] Display search results
+    - Use dynamically loading results on same page
+    - Maybe with AJAX?
