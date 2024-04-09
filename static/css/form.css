@@ -1,0 +1,57 @@
+body {
+    font-family: 'M PLUS 1 Code', monospace;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background: #f2f2f2;
+}
+
+.form-container {
+    background: #fff;
+    margin: 2% auto;
+    padding: 20px;
+    width: 80%;
+    max-width: 500px; /* Adjust width as necessary */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    font-size: 24px; /* Adjust size as necessary */
+    text-transform: lowercase;
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+    text-align: left; /* Aligns the text to the left */
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.form-group input[type="text"],
+.form-group input[type="number"],
+.form-group textarea {
+    width: calc(100% - 20px); /* Full width minus padding */
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 2px;
+    font-size: 16px; /* Adjust size as necessary */
+}
+
+button[type="submit"] {
+    background: #5cb85c;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+button[type="submit"]:hover {
+    background: #4cae4c;
+}
