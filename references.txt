@@ -1,0 +1,8 @@
+nodejs and mongodb tutorial
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU
+
+AJAX with nodejs and mongodb
+https://www.youtube.com/watch?v=208OaGpH1PA
+
+front-end styling
+https://www.google.com
